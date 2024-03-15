@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tehius;
 - 👀 I’m interested in honing my development skills;
-- 🌱 I’m currently learning JavaScript/TypeScript.
+- 🌱 I’m currently learning Python.
